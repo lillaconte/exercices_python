@@ -1,4 +1,4 @@
-**Exercices du cours 1**
--> APP-1
--> APP-2
--> APP-3 à 7
+## Exercices du cours 1
+1. APP-1
+2. APP-2
+3. APP-3 à 7
